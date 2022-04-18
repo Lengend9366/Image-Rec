@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(150, 133, 91);
+    color: white;
+}
+
+.heading{
+    width: 40%;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#camera{
+width: 320px;
+height: 310px;
+border-style: dashed;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: cyan;
+}
